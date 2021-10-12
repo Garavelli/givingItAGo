@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, world")
+	fmt.Println(ReverseRunes("hadouken"))
 }
 
 func ReverseRunes(s string) string {
